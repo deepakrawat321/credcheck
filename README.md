@@ -131,7 +131,7 @@ CredCheck/
 └── .gitignore
 ⚙️ Installation
 1. Clone the repository
-git clone https://github.com/ankit17670/credcheck.git
+git clone https://github.com/deepakrawat321/credcheck.git
 cd credcheck
 🔧 Backend Setup
 Go to the backend folder:
