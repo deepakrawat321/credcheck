@@ -10,7 +10,7 @@ Backend API
 https://credcheck-backend-332e.onrender.com
 
 GitHub Repository
-https://github.com/ankit17670/credcheck
+https://github.com/deepakrawat321/credcheck.git
 
 ✨ Features
 👨‍🎓 Student
